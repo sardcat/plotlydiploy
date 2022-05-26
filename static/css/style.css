@@ -1,0 +1,16 @@
+body {
+
+    color: #131413;
+    background-color: rgb(101, 118, 129);
+  }
+ 
+ .tag {
+     font-family: "Times New Roman", Times, serif; 
+     font-size: 1rem;
+    }  
+
+.jumbotron {
+    background-image: url("/static/images/BB.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
